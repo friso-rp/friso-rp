@@ -1,0 +1,40 @@
+{
+  "environment": "web",
+  "format": "html",
+  "prefix": "https://storage.googleapis.com",
+  "mainga": "UA-49880327-14",
+  "updated": "2022-09-02T05:18:46Z",
+  "id": "step_dde_20220902",
+  "duration": 37,
+  "title": "Digital Data Extraction",
+  "authors": "Friso Kluit",
+  "summary": "In this codelab, you'll learn how to extract data from PDF files and store it in Excel or insert it into a database.",
+  "source": "",
+  "theme": "web",
+  "status": [
+    "published"
+  ],
+  "category": [
+    "Web"
+  ],
+  "tags": [
+    "cds17",
+    "chrome-dev-summit-2016",
+    "devfest18",
+    "gdd17",
+    "io2016",
+    "io2017",
+    "io2018",
+    "io2019",
+    "jsconfeu",
+    "kiosk",
+    "pwa-dev-summit",
+    "pwa-roadshow",
+    "tag-web",
+    "typtwd17",
+    "web"
+  ],
+  "feedback": "https://github.com/googlecodelabs/your-first-pwapp/issues",
+  "ga": "G-9L0BWJM130",
+  "url": "step_dde_20220902"
+}
